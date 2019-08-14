@@ -30,3 +30,15 @@ XGBoost算法原理 0812
 - 优缺点
 - 应用场景
 - sklearn参数
+
+LightGBM算法梳理
+- LightGBM
+- LightGBM的起源
+- Histogram VS pre-sorted
+- leaf-wise VS level-wise
+- 特征并行和数据并行
+- 顺序访问梯度
+- 支持类别特征
+- 应用场景
+- sklearn参数
+- CatBoost(了解)
